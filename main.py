@@ -355,7 +355,7 @@ while True:
   print("8. Tente a sorte")
   print("9. Sair")
   print("")
-  N = int((input("========= escolha uma opção =========\n"))) 
+  N = int((input("========= escolha uma opção =========\n")))
 #recebe o numero da opção
 
     #escolha das opc
